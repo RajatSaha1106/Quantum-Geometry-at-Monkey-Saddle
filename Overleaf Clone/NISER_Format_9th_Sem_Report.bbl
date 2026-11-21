@@ -1,0 +1,92 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Van~Hove(1953)]{VanHove1953}
+L.~Van~Hove.
+\newblock The occurrence of singularities in the elastic frequency distribution
+  of a crystal.
+\newblock \emph{Phys. Rev.}, 89:\penalty0 1189, 1953.
+
+\bibitem[Stoner(1938)]{Stoner1938}
+E.~C. Stoner.
+\newblock Collective electron ferromagnetism.
+\newblock \emph{Proc. R. Soc. Lond. A}, 165:\penalty0 372, 1938.
+
+\bibitem[Shtyk et~al.(2017)Shtyk, Goldstein, and Chamon]{Shtyk2017}
+A.~Shtyk, G.~Goldstein, and C.~Chamon.
+\newblock Electrons at the monkey saddle: A multicritical {L}ifshitz point.
+\newblock \emph{Phys. Rev. B}, 95:\penalty0 035137, 2017.
+\newblock \doi{10.1103/PhysRevB.95.035137}.
+
+\bibitem[Yuan et~al.(2019)Yuan, Isobe, and Fu]{Yuan2019}
+N.~F.~Q. Yuan, H.~Isobe, and L.~Fu.
+\newblock Magic of high-order van {H}ove singularity.
+\newblock \emph{Nat. Commun.}, 10:\penalty0 5769, 2019.
+
+\bibitem[Zhou et~al.(2022)Zhou, Holleis, Saito, Cohen, Huynh, Patterson, Yang,
+  Taniguchi, Watanabe, and Young]{Zhou2022}
+H.~Zhou, L.~Holleis, Y.~Saito, L.~Cohen, W.~Huynh, C.~L. Patterson, F.~Yang,
+  T.~Taniguchi, K.~Watanabe, and A.~F. Young.
+\newblock Isospin magnetism and spin-polarized superconductivity in {B}ernal
+  bilayer graphene.
+\newblock \emph{Science}, 375:\penalty0 774--778, 2022.
+\newblock \doi{10.1126/science.abm8386}.
+
+\bibitem[Seiler et~al.(2022)Seiler, Geisenhof, Winterer, Watanabe, Taniguchi,
+  Xu, Zhang, and Weitz]{Seiler2022}
+A.~M. Seiler, F.~R. Geisenhof, F.~Winterer, K.~Watanabe, T.~Taniguchi, T.~Xu,
+  F.~Zhang, and R.~T. Weitz.
+\newblock Quantum cascade of correlated phases in trigonally warped bilayer
+  graphene.
+\newblock \emph{Nature}, 608:\penalty0 298--302, 2022.
+\newblock \doi{10.1038/s41586-022-04937-1}.
+
+\bibitem[de~la Barrera et~al.(2022)de~la Barrera, Aronson, Zheng, Watanabe,
+  Taniguchi, Ma, Jarillo-Herrero, and Ashoori]{delaBarrera2022}
+S.~C. de~la Barrera, S.~Aronson, Z.~Zheng, K.~Watanabe, T.~Taniguchi, Q.~Ma,
+  P.~Jarillo-Herrero, and R.~Ashoori.
+\newblock Cascade of isospin phase transitions in {B}ernal-stacked bilayer
+  graphene at zero magnetic field.
+\newblock \emph{Nat. Phys.}, 18:\penalty0 771--775, 2022.
+\newblock \doi{10.1038/s41567-022-01616-w}.
+
+\bibitem[Kitamura et~al.(2024)Kitamura, Daido, and Yanase]{Kitamura2024}
+T.~Kitamura, A.~Daido, and Y.~Yanase.
+\newblock Spin-triplet superconductivity from quantum-geometry-induced
+  ferromagnetic fluctuation.
+\newblock \emph{Phys. Rev. Lett.}, 132:\penalty0 036001, 2024.
+\newblock \doi{10.1103/PhysRevLett.132.036001}.
+
+\bibitem[Peotta and T{\"o}rm{\"a}(2015)]{Peotta2015}
+S.~Peotta and P.~T{\"o}rm{\"a}.
+\newblock Superfluidity in topologically nontrivial flat bands.
+\newblock \emph{Nat. Commun.}, 6:\penalty0 8944, 2015.
+
+\bibitem[T{\"o}rm{\"a} et~al.(2022)T{\"o}rm{\"a}, Peotta, and
+  Bernevig]{Torma2022}
+P.~T{\"o}rm{\"a}, S.~Peotta, and B.~A. Bernevig.
+\newblock Superconductivity, superfluidity and quantum geometry in twisted
+  multilayer systems.
+\newblock \emph{Nat. Rev. Phys.}, 4:\penalty0 528, 2022.
+
+\bibitem[McCann and Fal'ko(2006)]{McCann2006}
+E.~McCann and V.~I. Fal'ko.
+\newblock Landau-level degeneracy and quantum {H}all effect in a graphite
+  bilayer.
+\newblock \emph{Phys. Rev. Lett.}, 96:\penalty0 086805, 2006.
+
+\bibitem[McCann and Koshino(2013)]{McCann2013}
+E.~McCann and M.~Koshino.
+\newblock The electronic properties of bilayer graphene.
+\newblock \emph{Rep. Prog. Phys.}, 76:\penalty0 056503, 2013.
+
+\bibitem[Provost and Vallee(1980)]{Provost1980}
+J.~P. Provost and G.~Vallee.
+\newblock Riemannian structure on manifolds of quantum states.
+\newblock \emph{Commun. Math. Phys.}, 76:\penalty0 289, 1980.
+
+\end{thebibliography}
